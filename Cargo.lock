@@ -3,6 +3,10 @@
 version = 3
 
 [[package]]
+name = "elegant_test"
+version = "0.1.0"
+
+[[package]]
 name = "enum_data_test"
 version = "0.1.0"
 
