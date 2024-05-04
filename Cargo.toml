@@ -1,4 +1,4 @@
-workspace = { members = [ "elegant_test", "enum_data_test", "enum_test", "fail_test", "for_test", "generic_test", "loop_test", "match_test", "option_test", "result_test","test001", "test003", "test004", "while_test"] }
+workspace = { members = [ "elegant_test", "enum_data_test", "enum_test", "fail_test", "for_test", "generic_test", "loop_test", "match_test", "option_test", "random_number_gen", "result_test","test001", "test003", "test004", "while_test"] }
 [package]
 name = "rust"
 version = "0.1.0"
