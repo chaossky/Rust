@@ -3,11 +3,23 @@
 version = 3
 
 [[package]]
+name = "enum_data_test"
+version = "0.1.0"
+
+[[package]]
 name = "enum_test"
 version = "0.1.0"
 
 [[package]]
+name = "fail_test"
+version = "0.1.0"
+
+[[package]]
 name = "for_test"
+version = "0.1.0"
+
+[[package]]
+name = "generic_test"
 version = "0.1.0"
 
 [[package]]
@@ -16,6 +28,14 @@ version = "0.1.0"
 
 [[package]]
 name = "match_test"
+version = "0.1.0"
+
+[[package]]
+name = "option_test"
+version = "0.1.0"
+
+[[package]]
+name = "result_test"
 version = "0.1.0"
 
 [[package]]

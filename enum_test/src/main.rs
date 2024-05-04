@@ -19,8 +19,7 @@ fn main() {
         arms: 2,
         legs: 4,
         weapon: String::from("claw"),
-    };
-    
+    }; 
     match ferris.species{
         Species::Crab => println!("{} is a crab", ferris.name),
         Species::Octopus => println!("{} is an octopus", ferris.name),
