@@ -1,3 +1,8 @@
+struct Foo{
+    x: i32,
+}
 fn main() {
-    println!("Hello, world!");
+    let _foo = Foo{x: 42};
+
+    println!("{}", _foo.x);
 }
