@@ -16,7 +16,6 @@ pub fn factorial(x:f64)->f64{
          fact1*=i as f64;
     } 
      fact1
-
 }
 pub fn sum(x:f64,y:f64)->f64{
      x+y
@@ -36,17 +35,6 @@ pub fn mod_(x:f64,y:f64)->f64{
 pub fn pow(x:f64,y:f64)->f64{
      x.powf(y)
      }
-
-pub fn permutation(n:f64,r:f64)->f64{
-     let mut fact1:f64=1.0;
-     for i in 1..=r as usize{
-         fact1*=i as f64;   
-    } 
-     let mut fact2:f64=1.0;
-     for i in 1..=(n-r) as usize{
-         fact2*=i as f64;   
-    }   
-}
 
 // pub fn abs(x:f64)->f64{
 //      x.abs()

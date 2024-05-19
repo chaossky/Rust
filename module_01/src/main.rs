@@ -28,5 +28,8 @@ fn main() {
     println!("The remainder of {} and {} is {}",b,a,math_utils::mod_(b,a)); 
     println!("The power {} and {} is {}",a,b,math_utils::pow(a,b)); 
     println!("The power {} and {} is {}",b,a,math_utils::pow(b,a)); 
+    println!("The permation 4P3 is {}",math_utils::permutation(4,3)); 
+    println!("The combination 4C3 is {}",math_utils::combination(4,3)); 
+
    // println!("The quotient of {} and {} is {}",b,a,math_utils::quotient(b,a)); 
 }
