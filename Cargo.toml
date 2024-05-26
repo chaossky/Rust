@@ -1,4 +1,4 @@
-workspace = { members = [ "own002", "own3", "own4", "ownership_001", "vec001"] }
+workspace = { members = [ "module_01", "own002", "own3", "own4", "ownership_001", "vec001"] }
 [package]
 name = "rust"
 version = "0.1.0"
