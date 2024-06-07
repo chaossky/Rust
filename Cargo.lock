@@ -3,6 +3,10 @@
 version = 3
 
 [[package]]
+name = "bingocard_vec"
+version = "0.1.0"
+
+[[package]]
 name = "module_01"
 version = "0.1.0"
 
